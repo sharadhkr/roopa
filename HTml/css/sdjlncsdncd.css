@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+*{
+    border: none;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+    outline: 0;
+}
+.web{
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+}
+.hedder{
+    width: 1536px;
+    height: 100px;
+    background-color: blue;
+    display: flex;
+    padding-top: 15px;
+}
+.innerbox{
+    width: 100%;
+    height: 70px;
+    background-color: brown;
+}
+.logo{
+    width: 10%;
+    height: 100%;
+    background-color: black;
+}
